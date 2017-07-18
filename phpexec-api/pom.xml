@@ -16,7 +16,7 @@
     <artifactId>phpexec-api</artifactId>
     <packaging>jar</packaging>
 
-    <name>library:${project.version}</name>
+    <name>phpexec-api:${project.version}</name>
 
     <description>
         A public API for executing php from java.

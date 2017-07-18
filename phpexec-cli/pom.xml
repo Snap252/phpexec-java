@@ -16,7 +16,7 @@
     <artifactId>phpexec-cli</artifactId>
     <packaging>jar</packaging>
 
-    <name>library:${project.version}</name>
+    <name>phpexec-cli:${project.version}</name>
 
     <description>
         Execution of php via php-cli binary

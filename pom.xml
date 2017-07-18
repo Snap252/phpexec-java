@@ -18,7 +18,7 @@
     <version>0.1.10-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>${project.version}</name>
+    <name>phpexec-java:${project.version}</name>
 
     <description>
         A public API for executing php from java.
